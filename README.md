@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Software Developer pursuing BTECH CSE
+### I am a Software Developer pursuing BTech CSE
 
 -   🔭 I’m currently working on various projects
 -   🌱 I’m a Software Developer
@@ -45,7 +45,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="java" width="35px" src="https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language.png" /> 
+<img align="left" alt="java" width="60px" src="https://www.gcreddy.com/wp-content/uploads/2021/05/Java-Programming-Language.png" /> 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
 <br>
 <br>
